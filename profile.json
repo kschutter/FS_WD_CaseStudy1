@@ -1,0 +1,58 @@
+{
+    "name": "Kyle Schutter",
+    "title": "Computer Scientist",
+    "basicInfo": "I am a senior student at Miami University, studying Computer Science. I have experience with web development and database management, while working in a team-oriented environment. I throughly enjoy problem solving when it comes to computers, and will apply myself vigorously to any given task.",
+    "jobs": [
+        {
+            "title": "Lab Assistant",
+            "company": "Miami University",
+            "address": "Oxford, Ohio",
+            "phone": "516-555-6246",
+            "email": "labs@miamioh.edu",
+            "description": "Conducted studies and performed research pertaining to cybersecurities"
+        },
+        {
+            "title": "Computer Repair Technician",
+            "company": "TechHeadz",
+            "address": "Oxford, Ohio",
+            "phone": "516-555-9901",
+            "email": "support@techheadz.com",
+            "description": "Performed general repair on various devices from tablets, to computers, to mobile devices."
+        },
+        {
+            "title": "Data Entry Coordinator",
+            "company": "Lewis Fowler",
+            "address": "Denver, Colorado",
+            "phone": "303-555-6256",
+            "email": "contact@lewisfowler.com",
+            "description": "Arranged the transfer of thousands of clientele from Bullhorn to Salesforce"
+        }
+    ],
+    
+    "contact": {
+        "address": {
+                "street": "1801 Fillmore Ct.",
+                "city": "Louisville",
+                "state": "Colorado",
+                "zip": 80027,
+                "country": "United States"
+        },
+        "email": "kmosswork+resume@gmail.com",
+        "phone": "720-555-4216"
+    },
+    
+    "education": {
+        "uniName": "Miami University",
+        "uniAddress": "Oxford, Ohio",
+        "uniYear": 2019,
+        "uniDegree": "Bachelors in Computer Science"
+    },
+
+    "personalHighlights": [
+        "Optimistic Outlook",
+        "Forward Thinker",
+        "Team Leader",
+        "Efficient and Focused",
+        "Motivated and Committed"
+    ]
+} 
