@@ -1,0 +1,34 @@
+.column {
+    float: left;
+    width: 21em;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.underline {
+    border-bottom: 3px solid grey;
+}
+
+#c1 {
+    background-color: lightgrey;
+}
+
+#header {
+    background-color: grey;
+    color: lightgrey;
+    border: .5em solid grey;
+}
+
+/* Shenanigans with border thickness and color to get an angular transition of background colors */
+#tri {
+    width: 0px;
+    height: 0px;
+    border-top: 4em solid grey;
+    border-left: 4em solid grey;
+    border-right: 17em solid lightgrey;
+    border-bottom: 1em solid lightgrey;
+}

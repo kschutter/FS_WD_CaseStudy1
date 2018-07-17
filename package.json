@@ -1,0 +1,27 @@
+{
+  "name": "fs_wd_casestudy1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kschutter/FS_WD_CaseStudy1.git"
+  },
+  "keywords": [
+    "case",
+    "study",
+    "ajax",
+    "json"
+  ],
+  "author": "kschutter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kschutter/FS_WD_CaseStudy1/issues"
+  },
+  "homepage": "https://github.com/kschutter/FS_WD_CaseStudy1#readme",
+  "devDependencies": {
+  }
+}
